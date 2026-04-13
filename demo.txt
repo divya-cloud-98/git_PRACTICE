@@ -1,3 +1,9 @@
 Hello Simplilearn
 Adding second line to the file.
 ADD THIRD LINE IN BOLD FONT AND UPDATE EXHAUSTER REPORT.
+Exhauster report of today:-
+Exhauster #1 running idle.
+Exhauster #2 on load with rpm and in auto mode.
+Exhauster #3 on load with 3000 rpm . 
+Exhauster #4 running idle.
+Exhauster #5 running idle. 
