@@ -6,8 +6,14 @@ Exhauster #1 running idle.
 Exhauster #2 on load with rpm and in auto mode.
 Exhauster #3 on load with 3000 rpm . 
 Exhauster #4 running idle.
+
 Exhauster #5 running idle.
   Booster #1 is in idle running condition. 
 Booster #2 is in load with 3000 rpm.
 Booster #3 is in idle running condition.
 Booster #4 is in load condition.
+
+Exhauster #5 running idle. 
+Inspection of all machines are done. 
+Moisture draining is also updated.
+
